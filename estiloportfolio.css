@@ -7,6 +7,12 @@
 	scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
+body.white-background {
+    background-color: white;
+}
+.nombre.black {
+    color:black;
+}
 
 :root {
     --bg-color: #0c151d;
