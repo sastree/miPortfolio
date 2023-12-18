@@ -13,6 +13,9 @@ body.white-background {
 .nombre.black {
     color:black;
 }
+.oscurecer.back {
+    color:#6c7276;
+}
 
 :root {
     --bg-color: #0c151d;
