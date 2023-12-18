@@ -14,3 +14,12 @@ sr.reveal('.button',{delay:610, origin: 'top'});
 sr.reveal('.center',{delay:710, origin: 'right'});
 
 sr.reveal('.portfolio',{delay:810, origin: 'top'});
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    document.querySelector('.logo').addEventListener('click', function () {
+
+        document.body.classList.toggle('white-background');
+        document.querySelector('.nombre').classList.toggle('black');
+    });
+});
