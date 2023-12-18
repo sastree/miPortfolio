@@ -13,10 +13,30 @@ body.white-background {
 .nombre.black {
     color:black;
 }
-.oscurecer.back {
-    color:#6c7276;
+.oscurecer.oscuro {
+    color:#353739;
 }
-
+.a.oscuro {
+    color:#353739;
+}
+.b.oscuro {
+    color:#353739;
+}
+.c.oscuro {
+    color:#353739;
+}
+.d.oscuro {
+    color:#353739;
+}
+.oscurecer1.oscuro {
+    color:#353739;
+}
+.oscurecer2.oscuro {
+    color:#353739;
+}
+.oscurecer3.oscuro {
+    color:#353739;
+}
 :root {
     --bg-color: #0c151d;
     --text-color: #fff;
